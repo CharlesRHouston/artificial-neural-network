@@ -2,7 +2,7 @@
 
 ### Description
 
-Python class which allows the user to easily construct and train a feed-forward neural network. Coded up entirely from scratch without the use of Tensorflow or PyTorch. The class is contained in *neural_network.py* and experiments are performed in *main.py*, including comparisons of optimisers, learning rate decay, and weight initialisation. 
+Python class which allows the user to easily construct and train a feed-forward neural network. Coded up entirely from scratch without the use of Tensorflow or PyTorch. The class is contained in `neural_network.py` and experiments are performed in `main.py`, including comparisons of optimisers, learning rate decay, and weight initialisation. 
 
 ### Documentation
 
@@ -32,3 +32,7 @@ ArtificialNeuralNetwork.optimize method:
 * **epsilon**        - for Adam numerical stability; default = 1e-8
 
 Module requirements: numpy, matplotlib
+
+### References
+
+Inspired by: [Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning) on Coursera
