@@ -1,10 +1,10 @@
-## Artificial Neural Network (From Scratch)
+# Artificial Neural Network (From Scratch)
 
-#### Description
+### Description
 
 Python class which allows the user to easily construct and train a feed-forward neural network. Coded up entirely from scratch without the use of Tensorflow or PyTorch. The class is contained in *neural_network.py* and experiments are performed in *main.py*, including comparisons of optimisers, learning rate decay, and weight initialisation. 
 
-#### Documentation
+### Documentation
 
 ArtificialNeuralNetwork attributes:
 
